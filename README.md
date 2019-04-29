@@ -1,5 +1,7 @@
 # share
- 
+此项目用于分享工作学习过程遇到的问题，以及解决问题的方法
+***
+
 1.[image_to_file.py](image_to_file.py)
 　此脚本功能：通过docer的image反推出dockerfile,以便大致了解镜像的构建过程  
 　使用方法：pip安装docker-py.执行 python image_to_file.py XXXXX(imageID)
