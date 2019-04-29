@@ -1,0 +1,7 @@
+{
+    "process": {
+        "sshd": "22",
+        "rsyslog": ""
+    }
+}
+
