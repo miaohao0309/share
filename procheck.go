@@ -103,8 +103,8 @@ func checkProcess(name string, port string) string {
     }
 
     if f1 == "0" && f2 == "0" {
-        return "down"
+        return 0
     } else {
-        return "up"
+        return 1
     }
 }
